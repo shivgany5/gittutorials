@@ -1,0 +1,30 @@
+Resume ATS
+Leetcode
+English - speaking in crowd , participating event
+
+DSA very IMP for interviews 
+
+Hackhathon - not tech rounds , DSA rounds , 
+python
+os , dbms
+communication skills - speaker your thoughts
+Oops- file handling , polymorphism , data garbaging , method overriding , method overloading
+Q - Ask interviwer more about question what kind of answer they want 
+Q - ask Interviwer for time
+psudo code 
+DSA question solved by 3 apporaches - like by Interviwer
+Q - Interviwer Job role
+How lift Moves - psudo code
+Apporach is the thing that matters
+Different Apporaches
+HR interviwer --- Questions asking
+coderpad live coding platform
+HR want to know about your persanality - what other activities you do 
+        1.trading ,
+        2.youtube channel for environmental awareness , 
+        3.2nd year project for animal resque  or awareness
+Always keep anything which make you different from others
+
+ChatBot for NGO --- Gen AI,
+
+for skills set give for hackathon
